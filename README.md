@@ -1,6 +1,6 @@
 # Hi there, I'm Sude 👋
 
-### 🎓 Software Engineering Student & Java Backend Developer
+### 🎓Software Engineering Student | Learning Java Backend & Spring Boot
 > Focus: Spring Boot, PostgreSQL, Cloud Technologies & Algorithms.
 
 ---
