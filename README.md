@@ -6,7 +6,7 @@
 ---
 
 ### 🛠 Quick Tech Stack
-`Java` `Spring Boot` `PostgreSQL` `Git` `macOS`
+`Java` `Spring Boot` `PostgreSQL` `Git` 
 
 ---
 
